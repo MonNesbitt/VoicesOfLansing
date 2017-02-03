@@ -21,6 +21,11 @@ body {
    text-align:right;
 }
 
+.homebutton
+{
+   text-align: left;
+}
+
 /* This stuff affects the navigation bar stuff): 
 
 ul {
