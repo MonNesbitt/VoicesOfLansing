@@ -50,8 +50,8 @@ li a:hover {
  End of navigation bar stuff): */
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 14px 16px;
+    margin-top: 14px;
+    padding: 0;
     overflow: hidden;
     background-color: #5F9EA0;
 }
