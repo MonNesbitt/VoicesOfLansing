@@ -48,7 +48,25 @@ li a:hover {
 }
 
  End of navigation bar stuff): */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #5F9EA0;
+}
 
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
 
 /* This stuff affects the main content of the page (that is, everything but the header with your name and the navigation stuff): */
