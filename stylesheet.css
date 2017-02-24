@@ -20,7 +20,7 @@ body {
 
 #navbar
 {
-   margin-top:40px;
+   margin:0;
    text-align:right;
     background: url(RottyFace.png);
     width: auto;
