@@ -29,6 +29,7 @@ body {
     font-weight: bold;
     font-variant: small-caps;
    padding-right: 30px;
+   display: block;
 }
 
 /* This stuff affects the navigation bar stuff): 
