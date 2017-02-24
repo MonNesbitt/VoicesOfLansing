@@ -22,6 +22,7 @@ body {
 {
    margin-top:40px;
    text-align:right;
+    background: url(RottyFace.png);
 }
 
 /* This stuff affects the navigation bar stuff): 
@@ -99,7 +100,7 @@ li {
    margin-top: 2em;
    margin-bottom: 2em;
    
-   background-image: url(RottyFace.png);
+  
    /* Try futzing with this: */
    /*background-color: #f8f8f8;*/
 
