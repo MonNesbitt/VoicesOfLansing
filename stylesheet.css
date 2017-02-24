@@ -142,10 +142,10 @@ h2 {
 a {
    text-decoration: none;
    color: #FFFFFF;
+   padding: 8px;
 }
 a:hover {
    color: #59447a;
-   padding: 8px;
 }
 
 /* Picture: */
