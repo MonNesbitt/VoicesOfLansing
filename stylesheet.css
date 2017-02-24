@@ -25,7 +25,9 @@ body {
     background: url(RottyFace.png);
     width: auto;
     height: 500px;
-  
+   font-size: 200%;
+    font-weight: bold;
+    font-variant: small-caps;
 }
 
 /* This stuff affects the navigation bar stuff): 
