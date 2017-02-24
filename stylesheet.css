@@ -141,10 +141,11 @@ h2 {
 /* Links: */
 a {
    text-decoration: none;
-   color: #59447a;
+   color: #FFFFFF;
 }
 a:hover {
-   color: #FFFFFF;
+   color: #59447a;
+   padding: 8px;
 }
 
 /* Picture: */
