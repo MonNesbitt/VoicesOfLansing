@@ -23,6 +23,8 @@ body {
    margin-top:40px;
    text-align:right;
     background: url(RottyFace.png);
+    width: auto;
+    height: auto;
 }
 
 /* This stuff affects the navigation bar stuff): 
