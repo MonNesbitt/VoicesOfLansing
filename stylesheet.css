@@ -16,10 +16,7 @@ body {
 
 }
 
-#topbackground
-{
-   background-image: url(RottyFace.png);
-}
+
 
 #navbar
 {
@@ -104,7 +101,7 @@ li {
    
 
    /* Try futzing with this: */
-   background-color: #f8f8f8;
+   /*background-color: #f8f8f8;*/
 
    /* If you want your header to go all the way across the page, delete this 
    or comment it out: */
