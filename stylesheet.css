@@ -23,6 +23,7 @@ body {
    margin:0;
    text-align:right;
     background: url(lansingphoto1.jpg);
+    background-repeat: no-repeat;
     background-size: contain;
     max-width: auto;
     height: 500px;
