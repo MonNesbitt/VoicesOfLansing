@@ -22,7 +22,7 @@ body {
 {
    margin:0;
    text-align:right;
-    background: url(LansingPhoto.png);
+    background: url(LansingPhoto.png) no-repeat center center fixed;
     width: auto;
     height: 500px;
    font-size: 150%;
