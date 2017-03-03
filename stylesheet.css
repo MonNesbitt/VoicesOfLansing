@@ -23,13 +23,6 @@ body {
    margin:0;
    text-align:right;
     background: url(lansingphoto2.jpg);
-  /*  position: fixed; 
-  top: 0; 
-  left: 0; 
-
-  Preserve aspet ratio
- min-width: 100%;
-  min-height: 100%;*/
     width: auto;
     height: 500px;
    font-size: 150%;
