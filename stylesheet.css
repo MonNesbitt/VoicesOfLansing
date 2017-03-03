@@ -24,8 +24,8 @@ body {
    text-align:right;
     background: url(lansingphoto1.jpg);
     background-size: contain;
-    width: auto;
-    height: 500px;
+    max-width: 100%;
+    height: auto;
    font-size: 150%;
     font-weight: bold;
     font-variant: small-caps;
