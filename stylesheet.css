@@ -27,11 +27,11 @@ body {
   top: 0; 
   left: 0; 
 
-  Preserve aspet ratio */
+  Preserve aspet ratio
  min-width: 100%;
-  min-height: 100%;
-   /*  width: auto;
-    height: 500px;*/
+  min-height: 100%;*/
+    width: auto;
+    height: auto;
    font-size: 150%;
     font-weight: bold;
     font-variant: small-caps;
