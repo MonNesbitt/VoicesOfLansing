@@ -35,6 +35,19 @@ body {
    word-spacing: 5px;
 }
 
+
+#navbar 
+{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 16px;
+    font-size: 200%;
+    font-weight: bold;
+    font-variant: small-caps;
+} 
+
 /*ul {
     list-style-type: none;
     margin: 0;
