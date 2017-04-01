@@ -20,12 +20,12 @@ body {
 
 #navbar
 {
-   margin:0 auto;
+   margin:auto;
    text-align:right;
     background: url(lansingphoto1.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    width: auto;
+    width: 1200px;
     height: 500px;
    font-size: 130%;
     font-weight: bold;
