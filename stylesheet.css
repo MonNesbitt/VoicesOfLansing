@@ -36,6 +36,13 @@ body {
 }
 
 
+.intro-header {
+    background: center center no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+
+
 #title 
 {
     float: left;
